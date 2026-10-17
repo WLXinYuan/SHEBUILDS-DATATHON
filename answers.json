@@ -1,0 +1,1019 @@
+{
+  "E1": {
+    "player_rows": 4446966,
+    "matches": 47965,
+    "teams": 2026745
+  },
+  "E2": {
+    "missing_outcomes": 1,
+    "labelled_rows": 4446965
+  },
+  "E3": {
+    "rows": 4446966,
+    "missing_rankpoints": 1701810,
+    "missing_killpoints": 2655647,
+    "missing_winpoints": 2655647
+  },
+  "E4": {
+    "id": "afe34618b04d77",
+    "total_distance": 41270.1
+  },
+  "E5": {
+    "labelled_players": 4446965,
+    "top_players": 896671,
+    "top_rate": 0.2016366218308442
+  },
+  "E6": {
+    "matchtype": "squad",
+    "median_walkdistance": 906.7
+  },
+  "E7": {
+    "rows": 159715,
+    "mean_headshot_share": 0.2599957707593535,
+    "all_headshot_players": 427
+  },
+  "E8": {
+    "answer_table": [
+      {
+        "team_size": 1,
+        "teams": 792277
+      },
+      {
+        "team_size": 2,
+        "teams": 654211
+      },
+      {
+        "team_size": 3,
+        "teams": 247137
+      },
+      {
+        "team_size": 4,
+        "teams": 217540
+      },
+      {
+        "team_size": 5,
+        "teams": 53426
+      },
+      {
+        "team_size": 6,
+        "teams": 25875
+      },
+      {
+        "team_size": 7,
+        "teams": 14788
+      },
+      {
+        "team_size": 8,
+        "teams": 8422
+      },
+      {
+        "team_size": 9,
+        "teams": 4832
+      },
+      {
+        "team_size": 10,
+        "teams": 2935
+      },
+      {
+        "team_size": 11,
+        "teams": 1812
+      },
+      {
+        "team_size": 12,
+        "teams": 1134
+      },
+      {
+        "team_size": 13,
+        "teams": 812
+      },
+      {
+        "team_size": 14,
+        "teams": 562
+      },
+      {
+        "team_size": 15,
+        "teams": 343
+      },
+      {
+        "team_size": 16,
+        "teams": 229
+      },
+      {
+        "team_size": 17,
+        "teams": 154
+      },
+      {
+        "team_size": 18,
+        "teams": 112
+      },
+      {
+        "team_size": 19,
+        "teams": 61
+      },
+      {
+        "team_size": 20,
+        "teams": 22
+      },
+      {
+        "team_size": 21,
+        "teams": 17
+      },
+      {
+        "team_size": 22,
+        "teams": 17
+      },
+      {
+        "team_size": 23,
+        "teams": 7
+      },
+      {
+        "team_size": 24,
+        "teams": 3
+      },
+      {
+        "team_size": 25,
+        "teams": 2
+      },
+      {
+        "team_size": 26,
+        "teams": 5
+      },
+      {
+        "team_size": 27,
+        "teams": 2
+      },
+      {
+        "team_size": 28,
+        "teams": 2
+      },
+      {
+        "team_size": 31,
+        "teams": 1
+      },
+      {
+        "team_size": 36,
+        "teams": 1
+      },
+      {
+        "team_size": 49,
+        "teams": 1
+      },
+      {
+        "team_size": 64,
+        "teams": 1
+      },
+      {
+        "team_size": 72,
+        "teams": 1
+      },
+      {
+        "team_size": 74,
+        "teams": 1
+      }
+    ]
+  },
+  "E9": {
+    "players": 378962
+  },
+  "E10": {
+    "answer_table": []
+  },
+  "E11": {
+    "answer_table": [
+      {
+        "matchType": "squad-fpp",
+        "players": 1756186,
+        "fraction": 0.3949177933899202
+      },
+      {
+        "matchType": "duo-fpp",
+        "players": 996691,
+        "fraction": 0.22412831580003084
+      },
+      {
+        "matchType": "squad",
+        "players": 626526,
+        "fraction": 0.14088841695663964
+      },
+      {
+        "matchType": "solo-fpp",
+        "players": 536762,
+        "fraction": 0.12070296917044115
+      },
+      {
+        "matchType": "duo",
+        "players": 313591,
+        "fraction": 0.07051796663163154
+      },
+      {
+        "matchType": "solo",
+        "players": 181943,
+        "fraction": 0.04091396246339639
+      },
+      {
+        "matchType": "normal-squad-fpp",
+        "players": 17174,
+        "fraction": 0.003861958917608095
+      },
+      {
+        "matchType": "crashfpp",
+        "players": 6287,
+        "fraction": 0.0014137728959474842
+      },
+      {
+        "matchType": "normal-duo-fpp",
+        "players": 5489,
+        "fraction": 0.00123432470587812
+      },
+      {
+        "matchType": "flaretpp",
+        "players": 2505,
+        "fraction": 0.0005633054086763875
+      },
+      {
+        "matchType": "normal-solo-fpp",
+        "players": 1682,
+        "fraction": 0.0003782354081411911
+      },
+      {
+        "matchType": "flarefpp",
+        "players": 718,
+        "fraction": 0.00016145839657870107
+      },
+      {
+        "matchType": "normal-squad",
+        "players": 516,
+        "fraction": 0.00011603416801477682
+      },
+      {
+        "matchType": "crashtpp",
+        "players": 371,
+        "fraction": 8.342766731295e-05
+      },
+      {
+        "matchType": "normal-solo",
+        "players": 326,
+        "fraction": 7.330840847445201e-05
+      },
+      {
+        "matchType": "normal-duo",
+        "players": 199,
+        "fraction": 4.474961130802439e-05
+      }
+    ]
+  },
+  "E12": {
+    "id": "3be1ded892f443",
+    "heals": 80,
+    "boosts": 1,
+    "consumables": 81
+  },
+  "E13": {
+    "id": "1f5ba6e0cfb968",
+    "kills": 10,
+    "longestkill": 1094.0
+  },
+  "E14": {
+    "players": 226578,
+    "fraction": 0.05095114286909322
+  },
+  "E15": {
+    "players": 289272,
+    "mean_swim_distance": 69.32161987333723
+  },
+  "E16": {
+    "players": 302262,
+    "total_knockdowns": 347123
+  },
+  "E17": {
+    "players": 1295773,
+    "total_damage": 102903925.6682,
+    "mean_damage": 79.41508710877599
+  },
+  "E18": {
+    "answer_table": [
+      {
+        "kill_band": "0",
+        "players": 2529722
+      },
+      {
+        "kill_band": "1-2",
+        "players": 1400545
+      },
+      {
+        "kill_band": "3-5",
+        "players": 423561
+      },
+      {
+        "kill_band": "6+",
+        "players": 93138
+      }
+    ]
+  },
+  "E19": {
+    "answer_table": [
+      {
+        "matchType": "duo",
+        "players": 313591,
+        "total_heals": 419895
+      },
+      {
+        "matchType": "duo-fpp",
+        "players": 996691,
+        "total_heals": 1324426
+      },
+      {
+        "matchType": "solo",
+        "players": 181943,
+        "total_heals": 184150
+      },
+      {
+        "matchType": "solo-fpp",
+        "players": 536762,
+        "total_heals": 541956
+      },
+      {
+        "matchType": "squad",
+        "players": 626526,
+        "total_heals": 945087
+      },
+      {
+        "matchType": "squad-fpp",
+        "players": 1756186,
+        "total_heals": 2593509
+      }
+    ]
+  },
+  "E20": {
+    "players": 96930,
+    "total_team_kills": 106142
+  },
+  "E21": {
+    "players": 12996,
+    "total_road_kills": 15547,
+    "maximum_road_kills": 18
+  },
+  "E22": {
+    "players": 78409,
+    "fraction": 0.01763202147261751
+  },
+  "E23": {
+    "q1": 155.1,
+    "median": 685.6,
+    "q3": 1976.0,
+    "iqr": 1820.9
+  },
+  "E24": {
+    "players": 1486891,
+    "fraction": 0.33436077541406883
+  },
+  "E25": {
+    "players": 178,
+    "median_ride_distance": 726.95
+  },
+  "M1": {
+    "player_mean": 0.47282155272191256,
+    "team_mean": 0.49978240774365185,
+    "eligible_teams": 2026744,
+    "excluded_teams": 1
+  },
+  "M2": {
+    "rows": 2026745,
+    "undefined_teams": 794201,
+    "mean_concentration": 0.8037234748559222
+  },
+  "M3": {
+    "rows": 4446966,
+    "mean_damage_percentile": 0.5,
+    "players_at_or_above_90th": 464478
+  },
+  "M4": {
+    "answer_table": []
+  },
+  "M5": {
+    "answer_table": [
+      {
+        "walk_group": "below_or_equal",
+        "median_team_walk": 2802.6,
+        "teams": 253085,
+        "top_teams": 5987,
+        "top_rate": 0.023656083924373236
+      },
+      {
+        "walk_group": "above",
+        "median_team_walk": 2802.6,
+        "teams": 253076,
+        "top_teams": 105461,
+        "top_rate": 0.4167167175077842
+      }
+    ]
+  },
+  "M6": {
+    "winning_players": 127573,
+    "winning_teams": 47890,
+    "malformed_matches_excluded": "no"
+  },
+  "M7": {
+    "rows": 47965,
+    "train_matches": 38372,
+    "validation_matches": 9593,
+    "train_players": 3556266,
+    "validation_players": 890700
+  },
+  "M8": {
+    "matches": 47965,
+    "inconsistent_matches": 0,
+    "comparable_matches": 47965,
+    "matching_matches": 47965,
+    "mismatching_matches": 0
+  },
+  "M9": {
+    "answer_table": [
+      {
+        "matchId": "0000a43bce5eec",
+        "groupId": "4bf06994bd4c9a",
+        "Id": "e8a07358000dce",
+        "damageDealt": 23.4,
+        "team_damage": 23.4,
+        "damage_share": 1.0
+      },
+      {
+        "matchId": "0000a43bce5eec",
+        "groupId": "b947dfc5cf2d02",
+        "Id": "8eb803fb4b5d0a",
+        "damageDealt": 242.4,
+        "team_damage": 242.4,
+        "damage_share": 1.0
+      },
+      {
+        "matchId": "0000eb01ea6cdd",
+        "groupId": "15eb424956c422",
+        "Id": "5937dfb82a275d",
+        "damageDealt": 100.0,
+        "team_damage": 100.0,
+        "damage_share": 1.0
+      },
+      {
+        "matchId": "0000eb01ea6cdd",
+        "groupId": "68216d4610960f",
+        "Id": "491767607b72aa",
+        "damageDealt": 60.63,
+        "team_damage": 60.63,
+        "damage_share": 1.0
+      },
+      {
+        "matchId": "0000eb01ea6cdd",
+        "groupId": "e4333072b5c098",
+        "Id": "dfd21f0b39b35c",
+        "damageDealt": 37.48,
+        "team_damage": 37.48,
+        "damage_share": 1.0
+      }
+    ]
+  },
+  "M10": {
+    "answer_table": [
+      {
+        "placement_band": "low",
+        "players": 1107104,
+        "mean_consumables": 0.16987292973379195
+      },
+      {
+        "placement_band": "middle",
+        "players": 2443190,
+        "mean_consumables": 2.1405031945939528
+      },
+      {
+        "placement_band": "top",
+        "players": 896671,
+        "mean_consumables": 6.242708864232255
+      }
+    ]
+  },
+  "M11": {
+    "answer_table": [
+      {
+        "matchType": "duo",
+        "players": 11070,
+        "pooled_headshot_share": 0.2674941662683798,
+        "mean_player_headshot_share": 0.260105472209718
+      },
+      {
+        "matchType": "duo-fpp",
+        "players": 36054,
+        "pooled_headshot_share": 0.2555353185139672,
+        "mean_player_headshot_share": 0.25367549692223346
+      },
+      {
+        "matchType": "solo",
+        "players": 6059,
+        "pooled_headshot_share": 0.3071185586493637,
+        "mean_player_headshot_share": 0.2979513828116219
+      },
+      {
+        "matchType": "solo-fpp",
+        "players": 18640,
+        "pooled_headshot_share": 0.30608108673986417,
+        "mean_player_headshot_share": 0.301600583125118
+      },
+      {
+        "matchType": "squad",
+        "players": 21646,
+        "pooled_headshot_share": 0.2715711824098204,
+        "mean_player_headshot_share": 0.2616549606382016
+      },
+      {
+        "matchType": "squad-fpp",
+        "players": 59885,
+        "pooled_headshot_share": 0.25072513784863915,
+        "mean_player_headshot_share": 0.24838259006799562
+      }
+    ]
+  },
+  "M12": {
+    "answer_table": [
+      {
+        "matchType": "duo",
+        "leaders": 3356,
+        "labelled_leaders": 3356,
+        "mean_placement": 0.9281685935637664,
+        "top_rate": 0.8912395709177592
+      },
+      {
+        "matchType": "duo-fpp",
+        "leaders": 10620,
+        "labelled_leaders": 10620,
+        "mean_placement": 0.9241063370998116,
+        "top_rate": 0.8853107344632768
+      },
+      {
+        "matchType": "solo",
+        "leaders": 2297,
+        "labelled_leaders": 2297,
+        "mean_placement": 0.7891742707879844,
+        "top_rate": 0.7701349586417066
+      },
+      {
+        "matchType": "solo-fpp",
+        "leaders": 5679,
+        "labelled_leaders": 5678,
+        "mean_placement": 0.9457352236703065,
+        "top_rate": 0.9292004226840437
+      },
+      {
+        "matchType": "squad",
+        "leaders": 6658,
+        "labelled_leaders": 6658,
+        "mean_placement": 0.8881336587563833,
+        "top_rate": 0.8024932412135777
+      },
+      {
+        "matchType": "squad-fpp",
+        "leaders": 18576,
+        "labelled_leaders": 18576,
+        "mean_placement": 0.8845639804048235,
+        "top_rate": 0.796134797588286
+      }
+    ]
+  },
+  "M13": {
+    "answer_table": [
+      {
+        "matchType": "duo",
+        "players": 313591,
+        "spearman": 0.8877462731297412
+      },
+      {
+        "matchType": "duo-fpp",
+        "players": 996691,
+        "spearman": 0.9055750338307856
+      },
+      {
+        "matchType": "solo",
+        "players": 181943,
+        "spearman": 0.890196491206474
+      },
+      {
+        "matchType": "solo-fpp",
+        "players": 536761,
+        "spearman": 0.9296825744647682
+      },
+      {
+        "matchType": "squad",
+        "players": 626526,
+        "spearman": 0.8441096649418249
+      },
+      {
+        "matchType": "squad-fpp",
+        "players": 1756186,
+        "spearman": 0.864570419952793
+      }
+    ]
+  },
+  "M14": {
+    "answer_table": [
+      {
+        "revive_group": "zero",
+        "teams": 66677,
+        "top_teams": 8934,
+        "top_rate": 0.1339892316690913
+      },
+      {
+        "revive_group": "positive",
+        "teams": 84620,
+        "top_teams": 36704,
+        "top_rate": 0.4337508863152919
+      }
+    ]
+  },
+  "M15": {
+    "pooled_player_mean": 0.4726382935323313,
+    "equal_mode_mean": 0.4751499663069638,
+    "difference": 0.002511672774632545
+  },
+  "M16": {
+    "answer_table": [
+      {
+        "matchId": "08e4c9e6c033e2",
+        "groupId": "1e54ab4540a337",
+        "Id": "80ac0bbf58bfaf",
+        "kills": 66,
+        "mean_teammate_kills": 9.0,
+        "kill_gap": 57.0
+      },
+      {
+        "matchId": "6680c7c3d17d48",
+        "groupId": "4c4ee1e9eb8b5e",
+        "Id": "06308c988bf0c2",
+        "kills": 72,
+        "mean_teammate_kills": 17.5,
+        "kill_gap": 54.5
+      },
+      {
+        "matchId": "fc0bbecba8db99",
+        "groupId": "22d80bf00f56b7",
+        "Id": "f83f0bfaafb7d8",
+        "kills": 55,
+        "mean_teammate_kills": 8.0,
+        "kill_gap": 47.0
+      },
+      {
+        "matchId": "17dea22cefe62a",
+        "groupId": "8ee08f3d84dc3a",
+        "Id": "2a4c8d7cdb0361",
+        "kills": 57,
+        "mean_teammate_kills": 12.0,
+        "kill_gap": 45.0
+      },
+      {
+        "matchId": "904cecf36217df",
+        "groupId": "a999807e7f7780",
+        "Id": "d10322b281014b",
+        "kills": 49,
+        "mean_teammate_kills": 7.2,
+        "kill_gap": 41.8
+      }
+    ]
+  },
+  "M17": {
+    "answer_table": [
+      {
+        "matchId": "0000a43bce5eec",
+        "Id": "02035450b9c95a",
+        "damageDealt": 0.0,
+        "match_mean": 142.52390526315787,
+        "match_std": 185.95698560326846,
+        "damage_zscore": -0.7664348010417137
+      },
+      {
+        "matchId": "0000a43bce5eec",
+        "Id": "023a9418cf67b0",
+        "damageDealt": 200.0,
+        "match_mean": 142.52390526315787,
+        "match_std": 185.95698560326846,
+        "damage_zscore": 0.3090827405616533
+      },
+      {
+        "matchId": "0000a43bce5eec",
+        "Id": "053f948f0b020f",
+        "damageDealt": 29.4,
+        "match_mean": 142.52390526315787,
+        "match_std": 185.95698560326846,
+        "damage_zscore": -0.6083337224260187
+      },
+      {
+        "matchId": "0000a43bce5eec",
+        "Id": "0d3fbb7d4b168c",
+        "damageDealt": 100.0,
+        "match_mean": 142.52390526315787,
+        "match_std": 185.95698560326846,
+        "damage_zscore": -0.22867603024003016
+      },
+      {
+        "matchId": "0000a43bce5eec",
+        "Id": "10e31efbc8d87d",
+        "damageDealt": 428.2,
+        "match_mean": 142.52390526315787,
+        "match_std": 185.95698560326846,
+        "damage_zscore": 1.536248255531095
+      }
+    ]
+  },
+  "M18": {
+    "eligible_players": 4446965,
+    "outside_tolerance": 12886,
+    "maximum_grid_distance": 5.454545454545989e-05
+  },
+  "M19": {
+    "answer_table": [
+      {
+        "matchType": "duo",
+        "matches": 3356,
+        "mean_duration": 1648.0592967818832,
+        "median_duration": 1526.0
+      },
+      {
+        "matchType": "duo-fpp",
+        "matches": 10620,
+        "mean_duration": 1580.159416195857,
+        "median_duration": 1430.0
+      },
+      {
+        "matchType": "solo",
+        "matches": 2297,
+        "mean_duration": 1689.7218110579015,
+        "median_duration": 1808.0
+      },
+      {
+        "matchType": "solo-fpp",
+        "matches": 5679,
+        "mean_duration": 1576.671244937489,
+        "median_duration": 1439.0
+      },
+      {
+        "matchType": "squad",
+        "matches": 6658,
+        "mean_duration": 1607.1990087113247,
+        "median_duration": 1463.0
+      },
+      {
+        "matchType": "squad-fpp",
+        "matches": 18576,
+        "mean_duration": 1553.4354005167959,
+        "median_duration": 1403.0
+      }
+    ]
+  },
+  "M20": {
+    "matches": 47965,
+    "same_leader": 29041,
+    "different_leader": 18924,
+    "same_fraction": 0.6054623162722819
+  },
+  "M21": {
+    "answer_table": [
+      {
+        "matchType": "duo",
+        "q1": 176.2,
+        "q3": 1866.0,
+        "upper_fence": 4400.7,
+        "players": 313591,
+        "above_fence": 2367,
+        "above_fraction": 0.007548048253935859
+      },
+      {
+        "matchType": "duo-fpp",
+        "q1": 143.3,
+        "q3": 1885.0,
+        "upper_fence": 4497.55,
+        "players": 996691,
+        "above_fence": 8275,
+        "above_fraction": 0.008302472882769084
+      },
+      {
+        "matchType": "solo",
+        "q1": 114.0,
+        "q3": 1616.0,
+        "upper_fence": 3869.0,
+        "players": 181943,
+        "above_fence": 2735,
+        "above_fraction": 0.015032180408149805
+      },
+      {
+        "matchType": "solo-fpp",
+        "q1": 97.09,
+        "q3": 1577.0,
+        "upper_fence": 3796.8650000000002,
+        "players": 536762,
+        "above_fence": 9373,
+        "above_fraction": 0.017462115425458582
+      },
+      {
+        "matchType": "squad",
+        "q1": 209.5,
+        "q3": 2120.0,
+        "upper_fence": 4985.75,
+        "players": 626526,
+        "above_fence": 2195,
+        "above_fraction": 0.003503445986279899
+      },
+      {
+        "matchType": "squad-fpp",
+        "q1": 167.2,
+        "q3": 2158.0,
+        "upper_fence": 5144.2,
+        "players": 1756186,
+        "above_fence": 6494,
+        "above_fraction": 0.0036977859976107313
+      }
+    ]
+  },
+  "M22": {
+    "answer_table": [
+      {
+        "matchType": "duo",
+        "zero_players": 177222,
+        "boosted_players": 136369,
+        "zero_mean": 0.30784232262360184,
+        "boosted_mean": 0.7101176851043861,
+        "difference": 0.40227536248078427
+      },
+      {
+        "matchType": "duo-fpp",
+        "zero_players": 572409,
+        "boosted_players": 424282,
+        "zero_mean": 0.3157187760849323,
+        "boosted_mean": 0.715263995644407,
+        "difference": 0.3995452195594747
+      },
+      {
+        "matchType": "solo",
+        "zero_players": 111071,
+        "boosted_players": 70872,
+        "zero_mean": 0.313367945728408,
+        "boosted_mean": 0.7252665467321371,
+        "difference": 0.4118986010037291
+      },
+      {
+        "matchType": "solo-fpp",
+        "zero_players": 325510,
+        "boosted_players": 211251,
+        "zero_mean": 0.3345619738256889,
+        "boosted_mean": 0.7341729743291159,
+        "difference": 0.39961100050342696
+      },
+      {
+        "matchType": "squad",
+        "zero_players": 340971,
+        "boosted_players": 285555,
+        "zero_mean": 0.2709415844749263,
+        "boosted_mean": 0.6679939703384635,
+        "difference": 0.39705238586353725
+      },
+      {
+        "matchType": "squad-fpp",
+        "zero_players": 976586,
+        "boosted_players": 779600,
+        "zero_mean": 0.28817497803572867,
+        "boosted_mean": 0.6859721920215492,
+        "difference": 0.3977972139858206
+      },
+      {
+        "matchType": "ALL_PLAYERS",
+        "zero_players": 2503769,
+        "boosted_players": 1907929,
+        "zero_mean": 0.3006654896278371,
+        "boosted_mean": 0.6983176428472974,
+        "difference": 0.39765215321946024
+      },
+      {
+        "matchType": "EQUAL_MODES",
+        "zero_players": null,
+        "boosted_players": null,
+        "zero_mean": null,
+        "boosted_mean": null,
+        "difference": 0.40136329723279546
+      }
+    ]
+  },
+  "M23": {
+    "teams": 151297,
+    "zero_kill_teams": 24950,
+    "mean_assists_per_kill": 0.3642719419448776,
+    "pooled_assists_per_kill": 0.35700693900201413
+  },
+  "M24": {
+    "positive_players": 108247,
+    "negative_players": 428514,
+    "damage_auc": 0.7760686728083656
+  },
+  "M25": {
+    "answer_table": [
+      {
+        "kill_balance": "equal",
+        "teams": 203091,
+        "mean_kill_gap": 0.0,
+        "mean_placement": 0.4232611642071781,
+        "top_rate": 0.11683432549940667
+      },
+      {
+        "kill_balance": "unequal",
+        "teams": 219095,
+        "mean_kill_gap": 2.038567744585682,
+        "mean_placement": 0.612030874734704,
+        "top_rate": 0.33845135671740567
+      }
+    ]
+  },
+  "H1": {
+    "answer_table": [
+      {
+        "matchId": "0000a43bce5eec",
+        "groupId": "3a6addfa0df938",
+        "predicted_score": 0.03571428571428571,
+        "assigned_value": 0.0,
+        "minimum_squared_error": 0.31255102040816324
+      },
+      {
+        "matchId": "0000a43bce5eec",
+        "groupId": "236ab9e9c081b9",
+        "predicted_score": 0.07142857142857142,
+        "assigned_value": 0.2,
+        "minimum_squared_error": 0.31255102040816324
+      },
+      {
+        "matchId": "0000a43bce5eec",
+        "groupId": "dc8f83946f97a9",
+        "predicted_score": 0.10714285714285714,
+        "assigned_value": 0.4,
+        "minimum_squared_error": 0.31255102040816324
+      },
+      {
+        "matchId": "0000a43bce5eec",
+        "groupId": "e8ff1c0fe7f6aa",
+        "predicted_score": 0.14285714285714285,
+        "assigned_value": 0.6,
+        "minimum_squared_error": 0.31255102040816324
+      }
+    ]
+  },
+  "H2": {
+    "matches": 960,
+    "players": 88725,
+    "match_mae_a": 0.27180388197367716,
+    "match_mae_b": 0.11254308403581043,
+    "player_mae_a": 0.2691790307128769,
+    "player_mae_b": 0.10616323349755656,
+    "match_winner": "B",
+    "player_winner": "B",
+    "ranking_changes": "no"
+  },
+  "H3": {
+    "matchid": "0000a43bce5eec",
+    "groupid": "6620b219ed2ee2",
+    "id": "7883f49a7d5157",
+    "extra_0_allocation": 25.0,
+    "extra_1_allocation": 36.8421052631579,
+    "extra_2_allocation": 45.45454545454545,
+    "extra_3_allocation": 52.0,
+    "maximum_allocation": 52.0
+  },
+  "H4": {
+    "matches": 12,
+    "observed_mean_difference": 0.2505852663661961,
+    "extreme_sign_patterns": 2,
+    "total_sign_patterns": 4096,
+    "two_sided_p_value": 0.00048828125
+  },
+  "H5": {
+    "train_players": 3556265,
+    "validation_players": 890700,
+    "intercept": 0.47285019333486134,
+    "beta_walkdistance": 0.18120594962193484,
+    "beta_boosts": 0.09281261438158128,
+    "beta_kills": 0.02271439128527097,
+    "ridge_match_mae": 0.12466238351319081,
+    "baseline_match_mae": 0.2697461216211493,
+    "better_predictor": "ridge"
+  },
+  "H6": {
+    "answer_table": [
+      {
+        "split": "player",
+        "train_players": 3557572,
+        "validation_players": 889393,
+        "validation_with_training_teammate": 671759,
+        "teammate_leakage_rate": 0.7553005251896519,
+        "player_mae": 0.06192987052914487
+      },
+      {
+        "split": "match",
+        "train_players": 3556265,
+        "validation_players": 890700,
+        "validation_with_training_teammate": 0,
+        "teammate_leakage_rate": 0.0,
+        "player_mae": 0.2679703075002259
+      }
+    ]
+  }
+}
